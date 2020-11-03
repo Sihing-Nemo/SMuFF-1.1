@@ -1,6 +1,7 @@
 # SMuFF-1.1
 
-This is the latest version of the SMuFF firmware to be compiled using PlatformIO.
+This is the initial version of the SMuFF firmware to be compiled using PlatformIO.
+[For the latest release (2.x and above) which supports the newer SKR boards click here](https://github.com/technik-gegg/SMuFF-1.1/tree/SMuFF-2.0-(Experimental))
 
 This is the software package for the Smart Multi Filament Feeder (SMuFF) project as published on [Thingiverse](https://www.thingiverse.com/thing:3431438).
 ![The SMuFF](https://github.com/technik-gegg/SMuFF-1.1/blob/master/images/SMuFF%20render-2.png)
