@@ -142,8 +142,8 @@ _DEFPIN_ARM(PC7, 7, C);             // needed to compensate "Invalid pin specifi
 #define TMC_HW_SERIAL       1
 #define TMC_SERIAL          Serial4
 
-//#define TMC_SERIAL_RX_PIN   PC11    // UART - SERIAL4 RX
-//#define TMC_SERIAL_TX_PIN   PC10    // UART - SERIAL4 TX
+#define TMC_SERIAL_RX_PIN   PC11    // UART - SERIAL4 RX
+#define TMC_SERIAL_TX_PIN   PC10    // UART - SERIAL4 TX
 
 #define STALL_X_PIN         PA13    // SWDIO
 #define STALL_Y_PIN         -1      //
