@@ -24,7 +24,7 @@
       "CSMin":                0,
       "CSMax":                0,
       "CSDown":               0,
-      "DrvAddr":              0,
+      "DrvAddr":              1,
       "TOff":                 -1,
       "StopOnStall":          false,
       "MaxStall":             10
@@ -39,7 +39,7 @@
       "CSMin":                0,
       "CSMax":                0,
       "CSDown":               0,
-      "DrvAddr":              0,
+      "DrvAddr":              2,
       "TOff":                 -1,
       "StopOnStall":          false,
       "MaxStall":             10
