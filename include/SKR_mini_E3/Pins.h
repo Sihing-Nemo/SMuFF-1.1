@@ -139,7 +139,7 @@ _DEFPIN_ARM(PC7, 7, C);             // needed to compensate "Invalid pin specifi
 #define DEBUG_OFF_PIN       -1      // not needed on TWI display
 
 #define X_SERIAL_TX_PIN     PB15    // XUART - SPI2 MOSI
-#define Y_SERIAL_TX_PIN     PC6     // YUART - I2S2_MCK / TIM8_CH1 / SDIO_D6
+//#define Y_SERIAL_TX_PIN     PC6     // YUART - I2S2_MCK / TIM8_CH1 / SDIO_D6
 #define Z_SERIAL_TX_PIN     PC10    // EUART - SERIAL4 RX
 //#define E_SERIAL_TX_PIN     PC11    // ZUART - SERIAL4 TX
 
